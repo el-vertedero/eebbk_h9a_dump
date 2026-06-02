@@ -1,0 +1,14 @@
+# full_H9A-user 7.0 NRD90M V1.7.0_200515 dev-keys
+- manufacturer: eebbk
+- platform: mt8167
+- codename: H9A
+- flavor: full_H9A-user
+- release: 7.0
+- id: NRD90M
+- incremental: V1.7.0_200515
+- tags: dev-keys
+- fingerprint: EEBBK/full_H9A/H9A:7.0/NRD90M/V1.7.0_200515:user/dev-keys
+- is_ab: false
+- brand: EEBBK
+- branch: full_H9A-user-7.0-NRD90M-V1.7.0_200515-dev-keys
+- repo: eebbk_h9a_dump
